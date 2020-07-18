@@ -1,4 +1,4 @@
-/*Condicionais - Conta bancária
+/*Condicionais - Conta bancária.
 Queremos um código que oriente o usuário de acordo com o saldo da conta bancária.
  Para isso precisamos de uma variável saldo que guarda um número decimal(float),
 e imprime uma mensagem de acordo com a situação financeira. Se o saldo for maior que 0 (zero)
