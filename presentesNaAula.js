@@ -6,7 +6,7 @@ Escreva uma função estavaPresenteNaAula(nomeDoAluno, nomesDosPresentes)
 
 Essa função deve receber dois parâmetros:
 
-O primeiro deve representar o nome de um aluno
+O primeiro deve representar o nome de um aluno.
 
 O segundo deve representar um array com o os nomes dos alunos presentes.
 
